@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e561eebba6d8fd94a8de21ce9b6c3cf6, type: 3}
+  m_Name: SaveData
+  m_EditorClassIdentifier: 
+  EditorDebugLines: 0
+  CurrentLevelGroup: 0
+  Coins: 0
+  SavePoint: {x: 0, y: 0, z: 0}
+  CurrentHealth: 0
+  BossDefeated: 0
+  Left: 97
+  Right: 100
+  Jump: 32
+  Exit: 119
+  TestBool: 0
+  AutoLogin: 0
+  Help: 1
+  Info: 0
+  ExtraInfo: 0
+  PerformenceTracking: 0
+  FPSTrackingType: 0
+  Grain: 0
+  ChromaticAberration: 0
+  LensDistortion: 0
+  ColorGrading: 0
+  Bloom: 0
+  UIPostProcess: 0
+  FriendlyFire: 0
+  ControlsAsigned: 0
+  antiAliasing: 0
